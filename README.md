@@ -1,5 +1,5 @@
 # GEE_Java_sugarcane_training
-โค้ด Google Earth Engine พัฒนาโดย ผศ.ดร.นัฐพล มหาวิค ร่วมอบรมกับ GistNU ให้กับหน่วยงานอ้อยและน้ำตาล 18-19 ตุลาคม 2566 มหาวิทยาลัยนเรศวร
+โค้ด Google Earth Engine ประกอบการสอน powerpoint พัฒนาโดย ผศ.ดร.นัฐพล มหาวิค ร่วมอบรมกับ GistNU ให้กับหน่วยงานอ้อยและน้ำตาล 18-19 ตุลาคม 2566 มหาวิทยาลัยนเรศวร
 •	การค้นหาภาพ การกรองภาพ การสร้างภาพสีผสมจริง-เท็จ https://code.earthengine.google.com/d85abc8ecb2aa395bf670ca90095a799
 
 •	คำนวณหาดัชนีพืชพรรณ NDVI ภาพ Sentinel 2 https://code.earthengine.google.com/454ee7c9ff1764e06e5ed7a2e893010d
