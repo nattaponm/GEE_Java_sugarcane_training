@@ -30,5 +30,10 @@
 
 •	แบบจำลองคาดการณ์ผลผลิตอ้อย ด้วยดัชนีพืชพรรณ NDVI median  https://code.earthengine.google.com/ecfa02d6c807f19321e4dc9f99b76075 และ https://code.earthengine.google.com/?asset=projects/ee-my-yang1/assets/0sugarcane_gistnu/sugarcane_kaoliew
 
+ศึกษาเพิ่มเติมได้จากยูทูป ผศ.ดร.นัฐพล มหาวิค
+* GEE เบื้องต้น https://www.youtube.com/playlist?list=PL2e-NEAjUyLGy6wqRso1mFcaae1J-Et-Y
+* GEE ML https://www.youtube.com/playlist?list=PL2e-NEAjUyLEThjWtOqUyVtzBZcIm_Ha4
+* GEE ด้านสิ่งแวดล้อมและภูมิศาสตร์ https://www.youtube.com/playlist?list=PL2e-NEAjUyLHtAKaf34MpvqkcO1N2X4jR
+
 
 
